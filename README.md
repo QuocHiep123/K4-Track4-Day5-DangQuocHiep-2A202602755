@@ -1,5 +1,7 @@
 # K4 · Track 4 · Ngày 5 — Kalman Filter Pilot
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuocHiep123/K4-Track4-Day5-DangQuocHiep-2A202602755/blob/main/Lab/kalman_fusion_lab_STUDENT.ipynb)
+
 Bài lab 120 phút: từ số đo nhiễu đến một bộ theo dõi hợp nhất LiDAR, radar và camera, viết bằng NumPy. Buổi lab kết thúc bằng nhiệm vụ chẩn đoán cảm biến cho xe tự hành **Lynx-07**. Mỗi học viên nhận một quỹ đạo và một lỗi cảm biến riêng, sinh từ `STUDENT_ID`.
 
 ## Cấu trúc
